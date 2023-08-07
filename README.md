@@ -42,4 +42,15 @@
 |Ester Arraiz de Matos|[esterarraiz](https://github.com/esterarraiz)|
 
 [Link do repositório](https://github.com/HeloCris/projeto-ps-2023-2.git)
+##
+### Grupo 5:
+
+|Nome|Github|
+|---|---|
+|João Pedro Pereira Santos|[wchar-t](https://github.com/wchar-t)|
+|Lucas José |[yamatosz](https://github.com/yamatosz)|
+|Emanuel Catão Montenegro|[emanuelcatao](https://github.com/emanuelcatao)|
+| ???? ||
+
+[Link do repositório](https://github.com/wchar-t/projeto_de_sistemas)
 
