@@ -58,9 +58,9 @@
 
 |Nome|Github|
 |---|---|
+|João Pedro Ribeiro Dias Moraes|[ceasarcrew](https://github.com/CaesarCrew)|
 |Benedito Jaime Melo Moraes Junior|[beneX90](https://github.com/beneX90)|
 |João Victor Ribeiro Santos|[Carecovisk](https://github.com/Carecovsik)|
-|João Pedro Ribeiro Dias Moraes|[ceasarcrew](https://github.com/CaesarCrew)|
 |Gabriel Barbosa dos Santos Martiliano|[gabrielbdsm](https://github.com/gabrielbdsm)|
 
 [Link do repositório](https://github.com/CaesarCrew/TVBOX-Project)
