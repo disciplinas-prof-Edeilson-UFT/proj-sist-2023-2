@@ -22,3 +22,13 @@
 
 [Link do repositório](https://github.com/erarich/projeto_de_sistemas)
 ##
+### Grupo 3:
+
+|Nome|Github|
+|---|---|
+|Caio Henrique Pinho Santos|[CaioHPS3](https://github.com/CaioHPS3)|
+|João Pedro Noronha de M. Souza|[jpnoronhaa](https://github.com/jpnoronhaa)|
+|Sophia Menezes Pontes|[SophiaMenezes](https://github.com/SophiaMenezes)|
+|Gabriel Tavares dos Santos|[GabrielUFT](https://github.com/GabrielUFT)|
+
+[Link do repositório](https://github.com/CaioHPS3/projeto_de_sistemas)
