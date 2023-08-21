@@ -40,7 +40,7 @@
 |Helorrayne Cristine|[HeloCris](https://github.com/HeloCris)|
 |Antonio André|[andrebarceloschagas](https://github.com/andrebarceloschagas)|
 |Ester Arraiz de Matos|[esterarraiz](https://github.com/esterarraiz)|
-|Eduardo Lopes|[EduLps1](https://github.com/EduLps1)|
+|null|[null](null)|
 
 [Link do repositório](https://github.com/HeloCris/projeto-ps-2023-2.git)
 
