@@ -66,3 +66,15 @@
 |Gabriel Barbosa dos Santos Martiliano|[gabrielbdsm](https://github.com/gabrielbdsm)|
 
 [Link do repositório](https://github.com/CaesarCrew/TVBOX-Project)
+
+##
+### Grupo 7:
+
+|Nome|Github|
+|---|---|
+|Luis Filipe Araujo Bandeira|[luisfilipebandeira](https://github.com/luisfilipebandeira)|
+|Marcos Vinicius Barbosa|[eziors](https://github.com/eziors)|
+|Luan Porto|[98loann](https://github.com/98loann)|
+|Diogo|[DioguBrabo](https://github.com/DioguBrabo)|
+
+[Link do repositório](https://github.com/luisfilipebandeira/tv_box_app)
