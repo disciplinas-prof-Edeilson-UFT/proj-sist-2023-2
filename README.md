@@ -5,9 +5,11 @@
 |Nome|Github|
 |---|---|
 |Anderson Cícero Sena Freitas|[freitasanderson](https://github.com/freitasanderson)|
-|Rafael Soares Lopes de Souza|[rafaelsoares12](https://github.com/rafaelsoares12)|
 |Luis Felipe Nunes de Carvalho|[Luis-Felipe-N](https://github.com/Luis-Felipe-N)|
-|Lucas Carvalho da Luz Moura|[luc4sm0ur4](https://github.com/luc4sm0ur4)|
+|Rafael Soares Lopes de Souza|[rafaelsoares12](https://github.com/rafaelsoares12)|
+
+
+[Link do projeto em produção](https://codejunior.fly.dev/)
 
 [Link do repositório](https://github.com/freitasanderson/PS-TvBox)
 
