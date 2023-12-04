@@ -17,68 +17,44 @@
 ##
 ### Grupo 2:
 
-|Nome|Github|
-|---|---|
-|Érick Santos Marçal|[erarich](https://github.com/erarich)|
-|Jeová de Sousa Barbosa|[jeovazin1v9](https://github.com/jeovazin1v9)|
-|Mateus Alves Araujo|[MateusAlvez](https://github.com/MateusAlvez)|
-|Wilque Muriel do Nascimento Coelho|[uiuqM](https://github.com/uiuqM)|
+# Projeto "Mundo Matemático"
 
-[Link do repositório](https://github.com/erarich/projeto_de_sistemas)
-##
-### Grupo 3:
+## Universidade Federal do Tocantins - UFT
+### Ciência da Computação - 2023.2
+#### Professor: Edeilson Milhomem da Silva
 
-|Nome|Github|
-|---|---|
-|Caio Henrique Pinho Santos|[CaioHPS3](https://github.com/CaioHPS3)|
-|João Pedro Noronha de M. Souza|[jpnoronhaa](https://github.com/jpnoronhaa)|
-|Sophia Menezes Pontes|[SophiaMenezes](https://github.com/SophiaMenezes)|
-|Gabriel Tavares dos Santos|[GabrielUFT](https://github.com/GabrielUFT)|
+## Descrição Geral da Disciplina
 
-[Link do repositório](https://github.com/CaioHPS3/projeto_de_sistemas)
+Este repositório contém os projetos desenvolvidos pelos alunos da disciplina de Projeto de Sistemas, ministrada pelo Prof. Edeilson Milhomem da Silva, no segundo semestre de 2023 na Universidade Federal do Tocantins (UFT). A disciplina tem como objetivo acompanhar os acadêmicos no desenvolvimento de sistemas de informação, estimulando o trabalho em equipe, liderança, aplicação de padrões de desenvolvimento, ferramentas automatizadas e efetiva gerência para a construção de sistemas profissionalmente desenvolvidos.
 
-##
-### Grupo 4:
-|Nome|Github|
-|---|---|
-|Helorrayne Cristine|[HeloCris](https://github.com/HeloCris)|
-|Antonio André|[andrebarceloschagas](https://github.com/andrebarceloschagas)|
-|Ester Arraiz de Matos|[esterarraiz](https://github.com/esterarraiz)|
-|Benedito Jaime |[beneX90](https://github.com/beneX90)|
+## Projetos Desenvolvidos
 
-[Link do repositório](https://github.com/HeloCris/projeto-ps-2023-2.git)
+### Projeto "Mundo Matemático"
 
-##
-### Grupo 5:
+**Objetivo do Projeto:**
+Desenvolver um aplicativo educativo para sistemas Android, destinado a aparelhos de TVBOX, com o propósito de melhorar o ensino da matemática nas escolas de ensino fundamental no Brasil.
 
-|Nome|Github|
-|---|---|
-|João Pedro Pereira Santos|[wchar-t](https://github.com/wchar-t)|
-|Lucas José |[yamatosz](https://github.com/yamatosz)|
-|Emanuel Catão Montenegro|[emanuelcatao](https://github.com/emanuelcatao)|
-| ???? ||
+**Apresentações:**
+- [Apresentação Técnica]()
+- [Apresentação Comercial]()
 
-[Link do repositório](https://github.com/wchar-t/projeto_de_sistemas)
-##
-### Grupo 6:
+**Equipe do Projeto:**
+- Érick Santos Marçal - [@erarich](https://github.com/erarich)
+- Mateus Alves Araujo - [@MateusAlvez](https://github.com/MateusAlvez)
+- Sophia Menezes Pontes - [@SophiaMenezes](https://github.com/SophiaMenezes)
+- Wilque Muriel do Nascimento Coelho - [@uiuqM](https://github.com/uiuqM)
 
-|Nome|Github|
-|---|---|
-|João Pedro Ribeiro Dias Moraes|[ceasarcrew](https://github.com/CaesarCrew)|
-|Benedito Jaime Melo Moraes Junior|[beneX90](https://github.com/beneX90)|
-|João Victor Ribeiro Santos|[Carecovisk](https://github.com/Carecovsik)|
-|Gabriel Barbosa dos Santos Martiliano|[gabrielbdsm](https://github.com/gabrielbdsm)|
+**Repositório do Projeto:**
+[GitHub - Mundo Matemático](https://github.com/erarich/projeto_de_sistemas)
 
-[Link do repositório](https://github.com/CaesarCrew/TVBOX-Project)
+**Landing Page:**
+[link]()
 
-##
-### Grupo 7:
+## Encerramento da Disciplina
 
-|Nome|Github|
-|---|---|
-|Luis Filipe Araujo Bandeira|[luisfilipebandeira](https://github.com/luisfilipebandeira)|
-|Marcos Vinicius Barbosa|[eziors](https://github.com/eziors)|
-|Luan Porto|[98loann](https://github.com/98loann)|
-|Diogo|[DioguBrabo](https://github.com/DioguBrabo)|
+Agradecemos a oportunidade de participar da disciplina de Projeto de Sistemas. Este projeto foi uma experiência enriquecedora, permitindo-nos aplicar os conhecimentos adquiridos ao longo do semestre na criação de um produto com impacto social.
 
-[Link do repositório](https://github.com/luisfilipebandeira/tv_box_app)
+Agradecemos ao Prof. Edeilson Milhomem da Silva pela orientação e suporte ao longo do processo de desenvolvimento. Estamos ansiosos para aplicar as habilidades e lições aprendidas em projetos futuros.
+
+Atenciosamente,
+Equipe "Mundo Matemático"
