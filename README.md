@@ -9,7 +9,7 @@
 |Rafael Soares Lopes de Souza|[rafaelsoares12](https://github.com/rafaelsoares12)|
 
 
-[Link do projeto em produção](https://codejunior.fly.dev/)
+[Link do projeto em produção](https://codejunior.fly.dev/codejunior/)
 
 [Link do repositório](https://github.com/freitasanderson/PS-TvBox)
 
