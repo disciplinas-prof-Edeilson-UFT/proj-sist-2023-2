@@ -10,6 +10,8 @@
 |Lucas Carvalho da Luz Moura|[luc4sm0ur4](https://github.com/luc4sm0ur4)|
 
 [Link do repositório](https://github.com/freitasanderson/PS-TvBox)
+
+[Link do repositório do Aplicativo](https://github.com/freitasanderson/codeJuniorApp)
 ##
 ### Grupo 2:
 
