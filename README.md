@@ -35,8 +35,8 @@ Este repositório contém os projetos desenvolvidos pelos alunos da disciplina d
 Desenvolver um aplicativo educativo para sistemas Android, destinado a aparelhos de TVBOX, com o propósito de melhorar o ensino da matemática nas escolas de ensino fundamental no Brasil.
 
 **Apresentações:**
-- [Apresentação Técnica]()
-- [Apresentação Comercial]()
+- [Apresentação Técnica](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2023-2/blob/main/MundoMatem%C3%A1tico/Proj.%20Sistemas%20-%20Grupo%202%20-%20Apresenta%C3%A7%C3%A3o%20T%C3%A9cnica.pptx)
+- [Apresentação Comercial](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2023-2/blob/main/MundoMatem%C3%A1tico/Proj.%20Sistemas%20-%20Grupo%202%20-%20Apresenta%C3%A7%C3%A3o%20Comercial.pptx)
 
 **Equipe do Projeto:**
 - Érick Santos Marçal - [@erarich](https://github.com/erarich)
@@ -48,7 +48,7 @@ Desenvolver um aplicativo educativo para sistemas Android, destinado a aparelhos
 [GitHub - Mundo Matemático](https://github.com/erarich/projeto_de_sistemas)
 
 **Landing Page:**
-[link]()
+[link](https://mundo-matematico.vercel.app/)
 
 ## Encerramento da Disciplina
 
