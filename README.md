@@ -1,19 +1,45 @@
 # proj-sist-2023-2
 
 ### Grupo 1:
+# Projeto "CodeJunior"
 
-|Nome|Github|
-|---|---|
-|Anderson Cícero Sena Freitas|[freitasanderson](https://github.com/freitasanderson)|
-|Luis Felipe Nunes de Carvalho|[Luis-Felipe-N](https://github.com/Luis-Felipe-N)|
-|Rafael Soares Lopes de Souza|[rafaelsoares12](https://github.com/rafaelsoares12)|
+## Universidade Federal do Tocantins - UFT
+### Ciência da Computação - 2023.2
+#### Professor: Edeilson Milhomem da Silva
+
+## Descrição Geral da Disciplina
+
+Este repositório contém os projetos desenvolvidos pelos alunos da disciplina de Projeto de Sistemas, ministrada pelo Prof. Edeilson Milhomem da Silva, no segundo semestre de 2023 na Universidade Federal do Tocantins (UFT). A disciplina tem como objetivo acompanhar os acadêmicos no desenvolvimento de sistemas de informação, estimulando o trabalho em equipe, liderança, aplicação de padrões de desenvolvimento, ferramentas automatizadas e efetiva gerência para a construção de sistemas profissionalmente desenvolvidos.
+
+## Projetos Desenvolvidos
+
+### Projeto "Code Junior"
+
+**Objetivo do Projeto:**
+Desenvolver uma plataforma de ensino de programação lúdica para promover a aprendizagem interativa e divertida. Além disso, reduzir a produção de lixo eletrônico dando uma nova destinação para os TVBox apreendidos.
+
+**Apresentações:**
+- [Apresentação Técnica e Comercial](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2023-2/blob/main/CodeJunior/Code%20Junior.pptx)
+
+**Equipe do Projeto:**
+- Anderson Cícero Sena Freitas - [freitasanderson](https://github.com/freitasanderson)
+- Luis Felipe Nunes de Carvalho - [Luis-Felipe-N](https://github.com/Luis-Felipe-N)
+- Rafael Soares Lopes de Souza - [rafaelsoares12](https://github.com/rafaelsoares12)
 
 
-[Link do projeto em produção](https://codejunior.fly.dev/codejunior/)
+**Repositórios do Projeto:**
 
-[Link do repositório](https://github.com/freitasanderson/PS-TvBox)
+[Repositório CodeJunior](https://github.com/freitasanderson/PS-TvBox)
 
-[Link do repositório do Aplicativo](https://github.com/freitasanderson/codeJuniorApp)
+[Repositório Aplicativo](https://github.com/freitasanderson/codeJuniorApp)
+
+**Landing Page:**
+[Link da Landing Page](https://codejunior.fly.dev/codejunior/)
+
+## Encerramento da Disciplina
+
+Agradecemos a oportunidade de participar da disciplina de Projeto de Sistemas. Este projeto foi uma experiência enriquecedora, permitindo-nos aplicar os conhecimentos adquiridos ao longo do semestre na criação de um produto com impacto social.
+
 ##
 ### Grupo 2:
 
